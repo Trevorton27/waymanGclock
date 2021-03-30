@@ -1,5 +1,6 @@
 .clock {
     text-align: center;
+    font-size: 60px;
 }
     
 body {
@@ -8,4 +9,9 @@ body {
 
 h1 {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    border-color: greenyellow;
+    margin:20px 400px;
+    
 }
