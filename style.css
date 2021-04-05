@@ -1,42 +1,28 @@
 body {
-    background: linear-gradient(rgb(7, 6, 6), rgb(87, 84, 84), rgb(56, 216, 136));
-    background-attachment: fixed;
+  background: linear-gradient(rgb(7, 6, 6), rgb(87, 84, 84), rgb(56, 216, 136));
+  background-attachment: fixed;
 }
 
 h1 {
-    text-align: center;
-    font-family: papyrus, fantasy;
-    color: rgb(221, 201, 20);    
-    border: 3px solid gold;
-    padding: 20px 10px;
-    margin: 40px 400px 80px;
+  font-size: 60px;
+  text-align: center;
+  font-family: papyrus, fantasy;
+  color: rgb(221, 201, 20);
+  border: 3px solid gold;
+  padding: 20px 10px;
+  margin: 40px 400px 80px;
 }
 
-
 #displayTime {
-    text-align: center;
-    margin-bottom: 0.4em;
-    font-size: 60px;
-    color: rgb(17, 22, 22);
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 0.4em;
+  font-size: 60px;
+  color: rgb(221, 201, 20);
 }
 
 #displayDate {
-    text-align: center;
-    font-size: 50px;
-    color: rgb(4, 27, 22);
-  
+  text-align: center;
+  font-size: 50px;
+  color: rgb(221, 201, 20);
 }
-    
-
-
-
-    
-    
-    
-    
-      
-
-
-    
-    
-    
